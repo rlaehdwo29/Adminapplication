@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">AdminApplication</string>
+    <string name="appbar_welcome_msg">환영합니다!</string>
+</resources>
